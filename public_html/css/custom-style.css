@@ -1,0 +1,94 @@
+#jumbotron {
+    background-image: url("http://para.llel.us/themes/incentive-wp/wp-content/uploads/2013/07/home-1-ss-bg-2.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: 100%;
+}
+
+
+#jumbotronheader {
+    color: white;
+    color: rgb(55, 53, 53)
+/*    text-align: center;*/
+}
+
+
+#jumbotronp {
+    color: white;
+/*    text-align: center;*/
+}
+
+
+h2 {
+    text-align: center;
+}
+
+
+img {
+    display: block;
+    margin: auto;
+}
+
+
+.btn-default {
+    display: block;
+    margin-top: 3%;
+}
+
+#imgpiechart {
+    float: left;
+}
+#h1index {
+    text-align: center;
+    font-family: inherit;
+    font-size: 64px;
+}
+.row {
+    margin-bottom: 10%;
+    margin-top: 10%;
+}
+#button {
+    background-color: aquamarine;
+}
+#button:hover {
+    background-color: salmon;
+    transition: .5s;
+}
+ul {
+    background-color: white;
+    border: white;
+}
+#topimg {
+    margin-top: 10%;
+    margin-bottom: 10%;   
+}
+#headerindex {
+    font-size: 30px;
+    margin-left: 5%;
+}
+#pindex {
+    margin-left: 5%;
+}
+#headerindex2 {
+    font-size: 30px;
+    margin-right: 5%;
+    margin-top: 5%;
+}
+#pindex2 {
+    margin-right: 5%;
+}
+#imgart {
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
+#jumbotron2 {
+    background-color: lightskyblue;
+}
+#h2index {
+    text-align: center;
+}
+#h2column {
+    font-size: 35px;
+}
